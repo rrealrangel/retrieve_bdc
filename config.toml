@@ -1,0 +1,4 @@
+# Configuration file for quality-control.
+
+input_dir='/media/realrangel/AREAL TURBO/datasets/smn_base_de_datos_climatologica/v2018.06/data'
+output_dir='/media/realrangel/AREAL TURBO/datasets/smn_base_de_datos_climatologica/v2018.06/data_nc'
